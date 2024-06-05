@@ -1,0 +1,12 @@
+[user]
+	name = kimmy\\kimmy
+	email = wkmqyy@hotmail.com
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[credential "helperselector"]
+	selected = <no helper>
+[core]
+	editor = \"C:\\Users\\lygxq\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
