@@ -29,7 +29,3 @@ Definition and Usage: The LOWER() function converts a string to lower-case.
 Syntax: LOWER(text)
 Parameter Values: Text - The string to convert.
 Use Case: When I am checking the equality of two strings.  
-
-
-https://github.com/kemin-webdesign/Environment2-Assignmet1.git
-
